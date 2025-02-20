@@ -7,7 +7,7 @@ Features:
 •	MongoDB Storage: Saves survey responses securely.
 •	Data Processing: Converts stored data into CSV format.
 •	Data Visualization: Analyzes and visualizes trends in Jupyter Notebook.
-•	Deployment: Hosted on Render, ensuring accessibility.
+•	Deployment: Hosted on Render, ensuring accessibility. https://myban6420.onrender.com
 
 Prerequisites:
 •	Ensure you have the following installed:  
@@ -27,6 +27,8 @@ Instructions:
 
 For deployment on Render
 •	The project has the following files: requirements.txt for dependencies and Procfile for Gunicorn
+•	Link to deployed app on render: https://myban6420.onrender.com/ 
+
 
 Development tools used:
 •	Flask, Gunicorn as backend
