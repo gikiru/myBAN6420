@@ -18,11 +18,11 @@ Prerequisites:
 
 Instructions:
 •	Clone the Repository
-•	Create and activate a python virtual environment to run the healthcare_main app script
-•	Install dependencies: %pip install -r requirements.txt
-•	Configure the database connection by updating the MongoDB URI in the flask_app.py and export_data.py scripts
-•	Run the flask_app script to execute the app for data collection and exporting the data
-•	Run the analysis.ipynb to visualize the data from the survey_data notebook.
+•	Create and activate a python virtual environment to run the flask_app
+•	Install dependencies: pip install -r requirements.txt
+•	Configure the database connection by updating the MongoDB URI
+•	Run the flask_app for data collection and exporting the data
+•	Run the analysis.ipynb to visualize the data from the survey_data notebook
 •	Retrieve the images from the visualizations folder of the project directory for use in making your PowerPoint presentation
 
 For deployment on Render
