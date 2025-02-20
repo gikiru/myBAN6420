@@ -23,7 +23,7 @@ Instructions:
 •	Configure the database connection by updating the MongoDB URI in the flask_app.py and export_data.py scripts
 •	Run the flask_app script to input data
 •	Run the export_data.py script to export data from MongoDB onto a csv file
-•	Run the healthcare_main jupyter notebook to visualize the data from the survey_data notebook.
+•	Run the analysis jupyter notebook to visualize the data from the survey_data notebook.
 •	Retrieve the images from the images folder of the project directory for use in making your PowerPoint presentation
 
 For deployment on Render
